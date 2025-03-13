@@ -1,11 +1,11 @@
-# 👋 ¡Hola! Soy Juan Felipe Rendon Herrera  
+# ¡Saludos, Devs! 🔥
 
-## 🚀 Sobre mí  
-🎯 Actualmente estoy siguiendo mi roadmap para convertirme en **DevOps Engineer** y **Data Scientist**.  
-💡 Me apasiona la automatización, la infraestructura como código, la optimización de sistemas y el análisis de datos.  
-📚 Siempre estoy aprendiendo nuevas tecnologías y metodologías para mejorar mis habilidades.  
+## Sobre mí  
+⚡ Actualmente estoy siguiendo mi roadmap para convertirme en **DevOps Engineer** y **Data Scientist**.  
+🌐 Me apasiona la automatización, la infraestructura como código, la optimización de sistemas y el análisis de datos.  
+🔄 Siempre estoy aprendiendo nuevas tecnologías y metodologías para mejorar mis habilidades.  
 
-## 🔧 Tecnologías y Herramientas  
+## 💻 Tecnologías y Herramientas  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/>
