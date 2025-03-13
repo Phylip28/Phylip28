@@ -1,7 +1,7 @@
 # ¡Saludos, Devs! 🔥
 
 ## Sobre mí  
-⚡ Actualmente estoy siguiendo mi roadmap para convertirme en **DevOps Engineer** y **Data Scientist**.  
+⚡ Transformando ideas en código, infraestructura y datos.  
 🌐 Me apasiona la automatización, la infraestructura como código, la optimización de sistemas y el análisis de datos.  
 🔄 Siempre estoy aprendiendo nuevas tecnologías y metodologías para mejorar mis habilidades.  
 
@@ -17,17 +17,18 @@
 </p>
 
 ## 📌 Roadmap hacia DevOps y Data Science  
-✅ Aprender Linux y administración de servidores  
-🔹 Python y scripting  
-🔹 Docker y Kubernetes  
-🔹 Infraestructura como Código (Terraform, Ansible)  
-🔹 Seguridad y monitoreo en la nube  
-🔹 Machine Learning  
-🔹 Deep Learning y redes neuronales  
-🔹 Big Data y procesamiento de datos masivos  
+✅ **Linux y administración de servidores**  
+✅ **Python, SQL y scripting**  
+🔹 **Docker y Kubernetes**  
+🔹 **Infraestructura como Código (Terraform, Ansible)**  
+🔹 **Seguridad y monitoreo en la nube**  
+🔹 **Machine Learning**  
+🔹 **Deep Learning y redes neuronales**  
+🔹 **Big Data y procesamiento de datos masivos**  
+  
 
 ## 📫 Conéctate conmigo  
-📧 felipe28769@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/juan-rendon-dev)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipe28769@gmail.com)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-rendon-dev)
 
 ---
