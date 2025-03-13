@@ -18,11 +18,11 @@
 
 ## 📌 Roadmap hacia DevOps y Data Science  
 - [x] Aprender Linux y administración de servidores  
-- [x] Profundizar en Python y scripting  
+- [ ] Profundizar en Python y scripting  
 - [ ] Aprender Docker y Kubernetes  
 - [ ] Infraestructura como Código (Terraform, Ansible)  
 - [ ] Seguridad y monitoreo en la nube  
-- [x] Fundamentos de Machine Learning  
+- [ ] Fundamentos de Machine Learning  
 - [ ] Deep Learning y redes neuronales  
 - [ ] Big Data y procesamiento de datos masivos  
 
