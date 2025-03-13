@@ -6,25 +6,25 @@
 📚 Siempre estoy aprendiendo nuevas tecnologías y metodologías para mejorar mis habilidades.  
 
 ## 🔧 Tecnologías y Herramientas  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
 </p>
 
 ## 📌 Roadmap hacia DevOps y Data Science  
-- [x] Aprender Linux y administración de servidores  
-- [ ] Profundizar en Python y scripting  
-- [ ] Aprender Docker y Kubernetes  
-- [ ] Infraestructura como Código (Terraform, Ansible)  
-- [ ] Seguridad y monitoreo en la nube  
-- [ ] Fundamentos de Machine Learning  
-- [ ] Deep Learning y redes neuronales  
-- [ ] Big Data y procesamiento de datos masivos  
+✅ Aprender Linux y administración de servidores  
+🔹 Python y scripting  
+🔹 Docker y Kubernetes  
+🔹 Infraestructura como Código (Terraform, Ansible)  
+🔹 Seguridad y monitoreo en la nube  
+🔹 Machine Learning  
+🔹 Deep Learning y redes neuronales  
+🔹 Big Data y procesamiento de datos masivos  
 
 ## 📫 Conéctate conmigo  
 📧 felipe28769@gmail.com  
