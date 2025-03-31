@@ -1,30 +1,29 @@
-# ¡Saludos, Devs! 🔥
+# ¡Saludos Data Enthusiasts! 🔥
 
 ## Sobre mí  
-⚡ Transformando ideas en código, infraestructura y datos.  
-🌐 Me apasiona la automatización, la infraestructura como código, la optimización de sistemas y el análisis de datos.  
-🔄 Siempre estoy aprendiendo nuevas tecnologías y metodologías para mejorar mis habilidades.  
+🌐 Apasionado por la Ciencia de Datos y la Inteligencia Artificial.  
+📊  Explorando patrones en los datos para generar insights y soluciones valiosas.  
+🔄 Siempre estoy aprendiendo nuevas tecnologías y metodologías para potenciar mis habilidades.  
 
 ## 💻 Tecnologías y Herramientas  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
 </p>
 
-## 📌 Roadmap hacia DevOps y Data Science  
-✅ **Linux y administración de servidores**  
-✅ **Python, SQL y scripting**  
-🔹 **Docker y Kubernetes**  
-🔹 **Infraestructura como Código (Terraform, Ansible)**  
-🔹 **Seguridad y monitoreo en la nube**  
-🔹 **Machine Learning**  
+## 📌 Roadmap en Ciencia de Datos e IA
+✅ **Linux para gestión de entornos**  
+✅ **Python para análisis de datos**  
+✅ **SQL y manipulación de bases de datos**  
+🔹 **Visualización de datos con Matplotlib y Seaborn**  
+🔹 **Modelado y predicción con Machine Learning**  
 🔹 **Deep Learning y redes neuronales**  
 🔹 **Big Data y procesamiento de datos masivos**  
+🔹 **Despliegue de modelos en producción**   
   
 
 ## 📫 Conéctate conmigo  
