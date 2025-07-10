@@ -1,45 +1,78 @@
-# ¡Saludos Data Enthusiasts! 🔥
+# 👋 ¡Hola! Soy Phylip
 
 ## Sobre mí  
-🌐 Apasionado por la Ciencia de Datos y la Inteligencia Artificial.  
-📊  Explorando patrones en los datos para generar insights y soluciones valiosas.  
-🔄 Siempre estoy aprendiendo nuevas tecnologías y metodologías para potenciar mis habilidades.  
+Estudiante de Ingeniería de Sistemas con enfoque autodidacta en Linux y administración de sistemas.  
+- Apasionado por los entornos Linux, la automatización y la eficiencia.  
+- En camino hacia DevOps, combinando herramientas modernas con bases sólidas en sistemas.  
+- Me gusta construir entornos minimalistas, funcionales y altamente personalizados.
 
-## 💻 Tecnologías y Herramientas  
+---
+
+## ⚙️ Tecnologías y herramientas  
 <p align="center">
-  <!-- Lenguajes y entornos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
-  
-  <!-- Librerías y análisis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
-
-  <!-- Bases de datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
-
-  <!-- Sistemas operativos -->
+  <!-- Linux y shell -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
 
-  <!-- Control de versiones -->
+  <!-- Terminal y editores -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+
+  <!-- Git y control de versiones -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+
+  <!-- Python para scripts -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
 </p>
 
+---
 
-## 📌 Roadmap en Ciencia de Datos e IA
-✅ **Linux para gestión de entornos**  
-✅ **Python para análisis de datos**  
-✅ **SQL y manipulación de bases de datos**  
-🔹 **Visualización de datos con Matplotlib y Seaborn**  
-🔹 **Modelado y predicción con Machine Learning**  
-🔹 **Deep Learning y redes neuronales**  
-🔹 **Big Data y procesamiento de datos masivos**  
-🔹 **Despliegue de modelos en producción**   
-  
+## 📌 Principios personales  
+
+- Menos es más: prefiero entornos simples pero potentes.  
+- Automatizar lo repetitivo, entender lo esencial.  
+- Aprender haciendo: rompo cosas para aprender a arreglarlas.
+
+---
+
+## 📘 Actualmente aprendiendo  
+
+- 🐧 Administración avanzada de Linux  
+- 🇬🇧 Inglés técnico aplicado a TI  
+
+---
+
+## 🎯 Objetivo profesional  
+
+Convertirme en administrador de sistemas Linux y avanzar hacia un rol DevOps.  
+Estoy enfocando mis esfuerzos en dominar Linux a profundidad, automatizar procesos con scripts y adoptar herramientas modernas como Git, Docker y SSH para gestionar infraestructuras eficientes.
+
+---
+
+## 🛠️ Proyectos personales  
+
+- 🖥️ **Entorno Arch Linux personalizado**  
+  Instalación desde cero sin automatización, dotfiles modulares y enfoque minimalista.
+
+- 🐳 **Servidor local con contenedores**  
+  Automatización de servicios en red usando Docker y shell scripting.
+
+- 🗃️ **Servidor NAS personal**  
+  Proyecto para centralizar archivos, respaldos y servicios multimedia en red.
+
+---
+
+## 📍 Ruta de aprendizaje DevOps (actual)  
+✅ Fundamentos sólidos en Linux  
+✅ Automatización de entornos y configuración  
+🔹 Networking, SSH y manejo de servidores  
+🔹 Administración de servicios y seguridad  
+🔹 Docker, contenedores y despliegue  
+🔹 CI/CD y monitoreo  
+🔹 Kubernetes (a futuro)
+
+---
 
 ## 📫 Conéctate conmigo  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipe28769@gmail.com)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-rendon-dev)
-
----
