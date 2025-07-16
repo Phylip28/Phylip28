@@ -37,7 +37,8 @@ Estudiante de Ingeniería de Sistemas con enfoque autodidacta en Linux y adminis
 
 ## 📘 Actualmente aprendiendo  
 
-- 🐧 Administración avanzada de Linux  
+- 🐧 Administración avanzada de Linux
+- 🐳 Docker
 - 🇬🇧 Inglés técnico aplicado a TI  
 
 ---
@@ -54,7 +55,7 @@ Estoy enfocando mis esfuerzos en dominar Linux a profundidad, automatizar proces
 - 🖥️ **Entorno Arch Linux personalizado**  
   Instalación desde cero sin automatización, dotfiles modulares y enfoque minimalista.
 
-- 🐳 **Servidor local con contenedores**  
+- 🌐 **Servidor local con contenedores**  
   Automatización de servicios en red usando Docker y shell scripting.
 
 - 🗃️ **Servidor NAS personal**  
@@ -69,7 +70,7 @@ Estoy enfocando mis esfuerzos en dominar Linux a profundidad, automatizar proces
 🔹 Administración de servicios y seguridad  
 🔹 Docker, contenedores y despliegue  
 🔹 CI/CD y monitoreo  
-🔹 Kubernetes (a futuro)
+🔹 Kubernetes
 
 ---
 
