@@ -21,8 +21,11 @@ Estudiante de Ingeniería de Sistemas con enfoque autodidacta en Linux y adminis
   <!-- Git y control de versiones -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
 
-  <!-- Python para scripts -->
+  <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+
+  <!-- Contenedores -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
 </p>
 
 ---
