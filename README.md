@@ -1,82 +1,77 @@
-# 👋 ¡Hola! Soy Phylip
+# Hi! I'm Phylip
 
-## Sobre mí  
-Estudiante de Ingeniería de Sistemas con enfoque autodidacta en Linux y administración de sistemas.  
-- Apasionado por los entornos Linux, la automatización y la eficiencia.  
-- En camino hacia DevOps, combinando herramientas modernas con bases sólidas en sistemas.  
-- Me gusta construir entornos minimalistas, funcionales y altamente personalizados.
+## About me
+Systems Engineering student with a self-taught focus on Linux and system administration.
+- Passionate about Linux environments, automation, and efficiency.
+- On the path to DevOps, combining modern tools with a solid foundation in systems.
+- I enjoy building minimalist, functional, and highly personalized environments.
 
 ---
 
-## ⚙️ Tecnologías y herramientas  
+## ⚙️ Technologies and tools
 <p align="center">
-  <!-- Linux y shell -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
 
-  <!-- Terminal y editores -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 
-  <!-- Git y control de versiones -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
 
-  <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
 
-  <!-- Contenedores -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
 </p>
 
 ---
 
-## 📌 Principios personales  
+## 📌 Personal principles
 
-- Menos es más: prefiero entornos simples pero potentes.  
-- Automatizar lo repetitivo, entender lo esencial.  
-- Aprender haciendo: rompo cosas para aprender a arreglarlas.
+- Less is more: I prefer simple yet powerful environments.
+- Automate the repetitive, understand the essential.
+- Learning by doing: I break things to learn how to fix them.
 
 ---
 
-## 📘 Actualmente aprendiendo  
+## 📘 Currently learning
 
-- 🐧 Administración avanzada de Linux
+- 🐧 Advanced Linux Administration
 - 🐳 Docker
-- 🇬🇧 Inglés técnico aplicado a TI  
+- 🇬🇧 Technical English for IT
 
 ---
 
-## 🎯 Objetivo profesional  
+## 🎯 Professional goal
 
-Convertirme en administrador de sistemas Linux y avanzar hacia un rol DevOps.  
-Estoy enfocando mis esfuerzos en dominar Linux a profundidad, automatizar procesos con scripts y adoptar herramientas modernas como Git, Docker y SSH para gestionar infraestructuras eficientes.
-
----
-
-## 🛠️ Proyectos personales  
-
-- 🖥️ **Entorno Arch Linux personalizado**  
-  Instalación desde cero sin automatización, dotfiles modulares y enfoque minimalista.
-
-- 🌐 **Servidor local con contenedores**  
-  Automatización de servicios en red usando Docker y shell scripting.
-
-- 🗃️ **Servidor NAS personal**  
-  Proyecto para centralizar archivos, respaldos y servicios multimedia en red.
+To become a Linux systems administrator and advance towards a DevOps role.
+I am focusing my efforts on mastering Linux in-depth, automating processes with scripts, and adopting modern tools like Git, Docker, and SSH to manage efficient infrastructures.
 
 ---
 
-## 📍 Ruta de aprendizaje DevOps (actual)  
-✅ Fundamentos sólidos en Linux  
-✅ Automatización de entornos y configuración  
-🔹 Networking, SSH y manejo de servidores  
-🔹 Administración de servicios y seguridad  
-🔹 Docker, contenedores y despliegue  
-🔹 CI/CD y monitoreo  
+## 🛠️ Personal projects
+
+- 🖥️ **Custom Arch Linux Environment**
+  Installation from scratch without automation, modular dotfiles, and a minimalist approach.
+
+- 🌐 **Local Server with Containers**
+  Automation of network services using Docker and shell scripting.
+
+- 🗃️ **Personal NAS Server**
+  Project to centralize files, backups, and multimedia services on a network.
+
+---
+
+## 📍 DevOps Learning Path (current)
+✅ Solid foundations in Linux
+✅ Environment automation and configuration
+🔹 Networking, SSH, and server management
+🔹 Service administration and security
+🔹 Docker, containers, and deployment
+🔹 CI/CD and monitoring
 🔹 Kubernetes
 
 ---
 
-## 📫 Conéctate conmigo  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipe28769@gmail.com)   
+## 📫 Connect with me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipe28769@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-rendon-dev)
