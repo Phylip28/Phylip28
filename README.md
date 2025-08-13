@@ -36,7 +36,7 @@ Systems Engineering student with a self-taught focus on Linux and system adminis
 ## 📘 Currently learning
 
 - 🐧 Advanced Linux Administration
-- 🐳 Docker
+- 🐳 Docker Compose
 - 🇬🇧 Technical English for IT
 
 ---
