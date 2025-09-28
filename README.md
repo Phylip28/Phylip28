@@ -74,4 +74,4 @@ I am focusing my efforts on mastering Linux in-depth, automating processes with 
 
 ## 📫 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipe28769@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-rendon-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-rendon-devops)
