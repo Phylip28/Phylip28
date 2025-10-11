@@ -94,7 +94,7 @@
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,git,github,fastapi,postman,vscode,neovim&perline=11" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,git,github,fastapi,postgres,postman,vscode,neovim&perline=13" />
 </a>
 </p>
 
