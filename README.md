@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Juan Felipe Rendon Herrera</h1>
 
-  <img src="https://media.tenor.com/s6W_2rJ4HhAAAAAC/cat-meme-wave.gif" width="80px"/>
+  <img src="./assets/cat-meme-wave-emoji.gif" width="80px"/>
 
   <h3>Junior DevOps Engineer | Systems Engineering</h3>
   
   <p>
-    Hi guys, I focus on building architectures and infrastructures that generate business value through automation.
+    Focusing on building architectures and infrastructures that generate business value through automation.
     Deepening knowledge in the AWS ecosystem to complement skills in containers, Linux, and systems management.
   </p>
 
@@ -24,9 +24,15 @@
 
 **Infrastructure & Cloud**
 <br/>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash&perline=10" />
-</a>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.oracle.com/cloud/" target="_blank" style="margin-right: 7px;">
+    <img src="./assets/oracle_logo_icon.webp" height="48" alt="Oracle Cloud"/>
+  </a>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash&perline=10" height="48" />
+  </a>
+</div>
 
 **Development & Scripting**
 <br/>
@@ -42,6 +48,16 @@
 
 <hr/>
 
+### 🔭 Engineering & Architecture
+
+| Project | Role & Stack | Business Value / Solution |
+| :--- | :--- | :--- |
+| **MLOps Fraud Detection**<br>*(Thesis Project)* | **DevOps & Architect**<br>`Python` `Docker` `K8s` `AWS` | Designed real-time fraud detection pipelines. Implemented an event-driven architecture to process continuous data streams using stream learning. |
+| **Customer Churn MVP**<br>*(Current Project)* | **Data Engineer & DevOps**<br>`Python` `OCI` `FastAPI` | Architected MVP on Oracle Cloud (OCI). Developed validation scripts, configured isolated environments, and built API middleware for ML model serving. |
+| **University Cloud Club**<br>*(Community)* | **Founder & Lead**<br>`AWS` `Terraform` `Linux` | Led student initiative for AWS certification. Designed and deployed automated labs and infrastructure workshops. |
+
+<hr/>
+
 ### 🚀 Current Goal
 
-> Targeting **AWS Cloud Practitioner** certification.
+> Targeting **AWS Cloud Practitioner** certification and exploring **Kubernetes** fundamentals.
