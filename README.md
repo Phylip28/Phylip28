@@ -25,12 +25,12 @@
 **Infrastructure & Cloud**
 <br/>
 <div style="display: flex; align-items: center;">
-  <a href="https://www.oracle.com/cloud/" target="_blank" style="margin-right: 7px;">
-    <img src="./assets/oracle_logo_icon.webp" height="48" alt="Oracle Cloud"/>
-  </a>
-  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash&perline=10" height="48" />
+  </a>
+
+  <a href="https://www.oracle.com/cloud/" target="_blank" style="margin-left: 7px;">
+    <img src="./assets/oracle_logo_icon.webp" height="48" alt="Oracle Cloud"/>
   </a>
 </div>
 
