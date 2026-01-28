@@ -20,6 +20,14 @@
 
 <hr/>
 
+### About Me
+
+- Junior DevOps engineer focused on cloud, automation, and developer experience.
+- 1+ year working daily on Linux, Git, Docker, and GitHub Actions.
+- Building real-world projects around AWS, containers, and CI/CD as I complete my Systems Engineering degree.
+
+---
+
 ### 🛠 Tech Stack
 
 **Infrastructure & Cloud**
@@ -60,4 +68,4 @@
 
 ### 🚀 Current Goal
 
-> Targeting **AWS Cloud Practitioner** certification and exploring **Kubernetes** fundamentals.
+> Targeting **AWS Cloud Practitioner** certification and building projects with Docker, GitHub Actions on cloud environments.
