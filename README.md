@@ -51,9 +51,16 @@
 
 <hr/>
 
+### 📜 Certifications
+
+- **AWS Certified Cloud Practitioner**
+- **Oracle Cloud Infrastructure Foundations Associate**
+
+<hr/>
+
 ### 🎯 Current Goal
 
-> Targeting **AWS Cloud Practitioner** certification and building projects with Docker, GitHub Actions on cloud environments.
+> Focusing on **automating CI/CD pipelines** and **optimizing containerized applications** in cloud environments while seeking a professional internship.
 
 <hr/>
 
